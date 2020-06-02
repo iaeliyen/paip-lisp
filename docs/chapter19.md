@@ -10,7 +10,7 @@ Language is so ubiquitous that we take it for granted but without it, society as
 
 > Language and its Structure (1967)
 
-Anatural language is a language spoken by people, such as English, German, or Tagalog.
+A natural language is a language spoken by people, such as English, German, or Tagalog.
 This is in opposition to artificial languages like Lisp, FORTRAN, or Morse code.
 Natural language processing is an important part of AI because language is intimately connected to thought.
 One measure of this is the number of important books that mention language and thought in the title: in AI, Schank and Colby's *Computer Models of Thought and Language;* in linguistics, Whorf's *Language, Thought, and Reality* (and Chomsky's *Language and Mind;)* in philosophy, Fodor's *The Language of Thought;* and in psychology, Vygotsky's *Thought and Language* and John Anderson's *Language, Memory, and Thought.* Indeed, language is the trait many think of as being the most characteristic of humans.
@@ -18,7 +18,7 @@ Much controversy has been generated over the question of whether animais, especi
 Similar controversy surrounds the same question asked of computers.
 
 The study of language has been traditionally separated into two broad classes: syntax, or grammar, and semantics, or meaning.
-Historically, syntax has achieved the most attention, largely because on the surface it is more amenable to formai and semiformal methods.
+Historically, syntax has achieved the most attention, largely because on the surface it is more amenable to formal and semiformal methods.
 Although there is evidence that the boundary between the two is at best fuzzy, we still maintain the distinction for the purposes of these notes.
 We will cover the "easier" part, syntax, first, and then move on to semantics.
 
